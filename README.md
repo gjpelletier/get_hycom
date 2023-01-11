@@ -1,7 +1,7 @@
 # get_hycom
 Scripts to download HYCOM hindcast data from 1994 to present
 
-This script is used to download 3-hourly hindcast predictions of sea surface elevation, and water temperature, salinty, u-velocity, and v-velocity at various depth layers from anywhere in the world oceans predicted by the HYCOM model (www.hycom.org). The script is generalized to extract HYCOm data for any dates and times between 1994 to the present.
+This script is used to download 3-hourly hindcast predictions of sea surface elevation, and water temperature, salinty, u-velocity, and v-velocity at various depth layers from anywhere in the world oceans predicted by the HYCOM model (www.hycom.org). The script is generalized to extract HYCOM data for any dates and times between 1994 to the present.
 
 The script is written in the Microsoft Powershell language. Powershell is a cross-platform task-automation solution that runs in Windows, Linux, and MacOS
 
