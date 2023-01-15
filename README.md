@@ -1,7 +1,7 @@
 # get_hycom
 Scripts to download 3-hourly HYCOM hindcast data from 1994 to present
 
-These scripts are intended for use to download a consecutive series of 3-hourly hindcast predictions of sea surface elevation, and water temperature, salinity, u-velocity, and v-velocity at various depth layers from anywhere in the world oceans predicted by the HYCOM model (www.hycom.org). The scripts are generalized to extract HYCOM data for any dates and times between 1994 to the present. The output data extracted from hycom is saved to your drive in netcdf format for each 3-hourly datetime.
+These scripts are intended for use to download a consecutive series of 3-hourly hindcast predictions of sea surface elevation, and all depths of water temperature, salinity, u-velocity, and v-velocity at various depth layers from anywhere in the world oceans predicted by the HYCOM model (www.hycom.org). The scripts are generalized to extract HYCOM data for any dates and times between 1994 to the present. The output data extracted from hycom is saved to your drive in netcdf format for each 3-hourly datetime.
 
 Three versions of the scripts are available as follows for use in different computing platforms:
 
