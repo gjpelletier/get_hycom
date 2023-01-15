@@ -7,7 +7,7 @@ Three versions of the scripts are available as follows for use in different comp
 
 - get_hycom_3hr.py is written in Python
 - get_hycom_3hr.ipynb is a Jupyter notebook that is also set up to be able to save hycom outputs to your Google drive as a Google Colab notebook
-- get_hycom_3hr.ps1 is written in Microsoft Powershell. Powershell is a cross-platform task-automation solution that runs in Windows, Linux, and MacOS
+- get_hycom_3hr.ps1 is written in Microsoft Powershell. Powershell is a cross-platform task-automation solution that runs in Windows, Linux, and MacOS. This is a good option for people who do not use Python or Jupyter notebooks.
 
 INSTRUCTIONS
 
