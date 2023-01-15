@@ -11,11 +11,11 @@ Three versions of the scripts are available as follows for use with different co
 
 INSTRUCTIONS
 
-1) In the user input section above the while loop, specify the following:
+1) In the user input section, specify the following:
  		- specify the list of variables to be extracted from any combination of var_list = "surf_el,water_temp,salinity,water_u,water_v"
  		- specify the west, east, south, and north extent of the bounding box to be extracted
  		- specify the name of the resultDirectory where the hycom data will be saved as output
- 		- specify the date_start and number_of_days (or date_end in the Powershell version) of the period to be extracted and the corresponding hycom codes for the model glb and expt
+ 		- specify the date_start and number_of_days (or date_end in the Powershell version) of the period to be extracted, and the corresponding hycom codes for the model glb and expt
  2) Execute whichever version of the script you are using to generate the output nc files
- 3) During execution you sould see the progress of each 3-hour file that is extracted during the period of interest from beginning to end. Each nc file name has the format yyyyMMdd_HH.nc to indicate the datetime stamp in UTC
+ 3) During execution you sould see the progress of each 3-hourly file that is extracted during the period of interest from beginning to end. Each nc file name has the format yyyyMMdd_HH.nc to indicate the datetime stamp in UTC
 
