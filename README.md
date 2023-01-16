@@ -6,7 +6,7 @@ These scripts are intended for use to download a consecutive series of 3-hourly 
 Three versions of the scripts are available as follows for use with different computing platforms:
 
 - get_hycom_3hr.py is written in Python
-- get_hycom_3hr.ipynb is a Jupyter notebook that is set up as a Google Colab notebook to allow you to save hycom outputs in netcdf files directly to your Google drive
+- get_hycom_3hr.ipynb is a Jupyter notebook that is set up as a Google Colab notebook to save hycom outputs in netcdf files directly to your Google drive
 - get_hycom_3hr.ps1 is written in Microsoft Powershell. Powershell is a part of the Windows OS, and it is also available to run in Linux or MacOS. This is a good option for people who do not use Python or Jupyter notebooks.
 
 INSTRUCTIONS
