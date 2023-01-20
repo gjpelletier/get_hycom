@@ -16,7 +16,7 @@ Three versions of the scripts are available as follows for use with different co
 INSTRUCTIONS
 
 1) In the user input section, specify the following:
- 		- specify the list of variables to be extracted in any combination of the avilable variables
+ 		- specify the list of variables to be extracted in any combination of the available variables
  		- specify the west, east, south, and north extent of the bounding box to be extracted
  		- specify the name of the resultDirectory where the hycom data will be saved as output
  		- specify the date_start and number_of_days (or date_end in the Powershell version) of the period to be extracted, and the corresponding hycom codes for the model glb and expt
