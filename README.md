@@ -10,7 +10,7 @@ The output data extracted from hycom is saved to your drive in netcdf format for
 Three versions of the scripts are available as follows for use with different computing platforms:
 
 - get_hycom_3hr.py and get_hycom_1hr.py are written in Python
-- get_hycom_3hr.ipynb get_hycom_1hr.ipynb are Jupyter notebooks that are set up as a Google Colab notebook to save hycom outputs in netcdf files directly to your Google drive
+- get_hycom_3hr.ipynb and get_hycom_1hr.ipynb are Jupyter notebooks that are set up as a Google Colab notebook to save hycom outputs in netcdf files directly to your Google drive
 - get_hycom_3hr.ps1 and get_hycom_1hr.ps1 are written in Microsoft Windows Powershell. Powershell is a part of the Windows OS, and it is also available to run in Linux or MacOS. This is a good option for people who do not use Python or Jupyter notebooks.
 
 INSTRUCTIONS
