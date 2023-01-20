@@ -3,7 +3,7 @@ Scripts to download a temporal series of HYCOM model output data at time frequen
 
 These scripts are intended for use to download a consecutive temporal series of 3-hourly or 1-hourly HYCOM predictions. The available variables for 3-hourly HYCOM predictions include the sea surface elevation, and water temperature, salinity, u-velocity, and v-velocity at all model depth layers. The available variables for 1-hourly predictions include the water_flux_into_ocean, ocean_mixed_layer_thickness, surface_downward_heat_flux_in_air, sea_surface_elevation, steric_ssh, surface_boundary_layer_thickness, u_barotropic_velocity, and v_barotropic_velocity. 
 
-The 3-hourly scripts are generalized to extract HYCOM data for any dates and times between 1994 to the present from any selected location in the world oceans at all model depths. The 1-hourly scripts download sur/surface diagnostic data between 2019 to the present. 
+The 3-hourly scripts are generalized to extract HYCOM data for any dates and times between 1994 to the present from any selected location in the world oceans at all model depths. The 1-hourly scripts download sur/surface diagnostic data between 2019 to the present for any selected location. 
 
 The output data extracted from hycom is saved to your drive in netcdf format for each datetime.
 
