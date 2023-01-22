@@ -11,6 +11,7 @@ Three versions of the 3-hourly and 1-hourly scripts are available as follows for
 
 - get_hycom_3hr.py and get_hycom_1hr.py are written in Python
 - get_hycom_3hr.ipynb and get_hycom_1hr.ipynb are Jupyter notebooks that are set up as Google Colab notebooks to save hycom outputs in netcdf files directly to your Google drive
+- get_hycom_3hr.m and get_hycom_1hr.m are written in MATLAB script
 - get_hycom_3hr.ps1 and get_hycom_1hr.ps1 are written in Microsoft Windows Powershell. Powershell is a part of the Windows OS, and it is also available to run in Linux or MacOS. This is a good option for people who do not use Python or Jupyter notebooks.
 
 INSTRUCTIONS
