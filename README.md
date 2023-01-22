@@ -7,7 +7,7 @@ The 3-hourly scripts are generalized to extract HYCOM data for any dates and tim
 
 The output data extracted from hycom is saved to your drive in netcdf format for each datetime.
 
-Three versions of the 3-hourly and 1-hourly scripts are available as follows for use with different computing platforms:
+Four versions of the 3-hourly and 1-hourly scripts are available as follows for use with different computing platforms:
 
 - get_hycom_3hr.py and get_hycom_1hr.py are written in Python
 - get_hycom_3hr.ipynb and get_hycom_1hr.ipynb are Jupyter notebooks that are set up as Google Colab notebooks to save hycom outputs in netcdf files directly to your Google drive
