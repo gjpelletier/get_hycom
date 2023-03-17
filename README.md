@@ -1,4 +1,4 @@
-# Scripts to batch-download a temporal series of HYCOM model output data at time frequency of 3-hourly (over all model depths) or 1-hourly (surface diagnostic) from www.hycom.org
+# Scripts to download HYCOM model output data from www.hycom.org
 
 These scripts are intended for use to download a consecutive temporal series of 3-hourly or 1-hourly HYCOM predictions. The available variables for 3-hourly HYCOM predictions include the sea surface elevation, and water temperature, salinity, u-velocity, and v-velocity at all model depth layers. The available variables for 1-hourly predictions include the surface diagnostic water_flux_into_ocean, ocean_mixed_layer_thickness, surface_downward_heat_flux_in_air, sea_surface_elevation, steric_ssh, surface_boundary_layer_thickness, u_barotropic_velocity, and v_barotropic_velocity. 
 
