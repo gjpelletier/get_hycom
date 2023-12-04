@@ -13,12 +13,12 @@
 % Greg Pelletier (gjpelletier@gmail.com) (https://github.com/gjpelletier/get_hycom)
 % ----------
 
-ncpath = 'c:\data\hycom\bhavana\' ;						% change this to whatever folder name contains your nc files downloaded by get_hycom
-ncfiles = dir([ncpath,'*.nc']) ;						% list of all nc files in the output folder
+ncpath = 'c:\data\hycom\bhavana\' ;				% change this to whatever folder name contains your nc files downloaded by get_hycom
 fout = 'c:\data\hycom\test\merged_data.nc';		% change this to whatever folder name and output file name that you want to use for the merged file
 
 % - - -
 % Process the files one by one
+ncfiles = dir([ncpath,'*.nc']) ;				% list of all the separate nc files that are to be merged together
 for fr = 1:length(ncfiles)
 	file = [ncpath,ncfiles(fr,1).name] ;
 	disp(['now reading >>>  ',file])
